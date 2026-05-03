@@ -10,7 +10,7 @@
       "age": 3,
       "location": "Bogura",
       "description": "Healthy deshi cow suitable for Qurbani. Well fed with natural খাবার.",
-      "image": "https://i.postimg.cc/8Cw7h9wM/cow1.jpg",
+      "image": "https://images.unsplash.com/photo-1545468843-2796634f11ef?q=80&w=800&auto=format&fit=crop",
       "category": "Large Animal"
     },
     {
@@ -23,7 +23,7 @@
       "age": 4,
       "location": "Sirajganj",
       "description": "Imported breed, বড় সাইজ এবং স্বাস্থ্য ভালো। Perfect for premium Qurbani.",
-      "image": "https://i.postimg.cc/Z5X6Yh7W/cow2.jpg",
+      "image": "https://images.unsplash.com/photo-1527153351910-4ff6c55bf37e?q=80&w=800&auto=format&fit=crop",
       "category": "Large Animal"
     },
     {
@@ -36,7 +36,7 @@
       "age": 1.5,
       "location": "Rajshahi",
       "description": "Popular goat breed in Bangladesh. Tender meat and healthy growth.",
-      "image": "https://i.postimg.cc/vZ9vKzjT/goat1.jpg",
+      "image": "https://images.unsplash.com/photo-1524024973431-2ad916746881?q=80&w=800&auto=format&fit=crop",
       "category": "Small Animal"
     },
     {
@@ -49,7 +49,7 @@
       "age": 2,
       "location": "Pabna",
       "description": "Tall and সুন্দর দেখতে goat. Ideal for Qurbani.",
-      "image": "https://i.postimg.cc/1X9HcZ1b/goat2.jpg",
+      "image": "https://images.unsplash.com/photo-1533318087102-b3ad366ed041?q=80&w=800&auto=format&fit=crop",
       "category": "Small Animal"
     },
     {
@@ -62,7 +62,7 @@
       "age": 2,
       "location": "Mymensingh",
       "description": "Affordable and ভালো মানের sheep.",
-      "image": "https://i.postimg.cc/j2qKp9rG/sheep1.jpg",
+      "image": "https://images.unsplash.com/photo-1484557985045-edf25e08da73?q=80&w=800&auto=format&fit=crop",
       "category": "Medium Animal"
     },
     {
@@ -75,7 +75,7 @@
       "age": 3.5,
       "location": "Dhaka",
       "description": "Strong and healthy bull with বড় গঠন.",
-      "image": "https://i.postimg.cc/0yq0p2mQ/cow3.jpg",
+      "image": "https://images.unsplash.com/photo-1583551523445-64f783cb136f?q=80&w=800&auto=format&fit=crop",
       "category": "Large Animal"
     },
     {
@@ -88,7 +88,7 @@
       "age": 4,
       "location": "Khulna",
       "description": "High-quality Sahiwal breed, known for strong body structure and ভালো মাংস উৎপাদন।",
-      "image": "https://i.postimg.cc/3xWQkL0n/cow4.jpg",
+      "image": "https://images.unsplash.com/photo-1570042225831-d98fa7577f1e?q=80&w=800&auto=format&fit=crop",
       "category": "Large Animal"
     },
     {
@@ -101,7 +101,7 @@
       "age": 3,
       "location": "Chattogram",
       "description": "দেশি জনপ্রিয় গরু, সুস্থ ও প্রাকৃতিকভাবে লালিত। Perfect for medium বাজেট Qurbani।",
-      "image": "https://i.postimg.cc/m2c9TzvK/cow5.jpg",
+      "image": "https://images.unsplash.com/photo-1605051008459-0950b311da85?q=80&w=800&auto=format&fit=crop",
       "category": "Large Animal"
     },
     {
@@ -114,7 +114,7 @@
       "age": 2,
       "location": "Jessore",
       "description": "Imported Boer goat, দ্রুত বৃদ্ধি পায় এবং মাংসের মান ভালো।",
-      "image": "https://i.postimg.cc/2yYk1FZP/goat3.jpg",
+      "image": "https://images.unsplash.com/photo-1511117835895-4b46379d7572?q=80&w=800&auto=format&fit=crop",
       "category": "Small Animal"
     },
     {
@@ -127,7 +127,7 @@
       "age": 2,
       "location": "Barisal",
       "description": "ছোট আকৃতির কিন্তু ভালো মানের মাংস উৎপাদনকারী ভেড়া।",
-      "image": "https://i.postimg.cc/d1Yy0LhF/sheep2.jpg",
+      "image": "https://images.unsplash.com/photo-1444465693019-aa0b6392460d?q=80&w=800&auto=format&fit=crop",
       "category": "Medium Animal"
     },
     {
@@ -140,7 +140,7 @@
       "age": 1.8,
       "location": "Rangpur",
       "description": "সহজলভ্য এবং সুস্বাদু মাংসের জন্য পরিচিত দেশি ছাগল।",
-      "image": "https://i.postimg.cc/9QvP3J7p/goat4.jpg",
+      "image": "https://images.unsplash.com/photo-1563412091375-97ef14d4363c?q=80&w=800&auto=format&fit=crop",
       "category": "Small Animal"
     },
     {
@@ -153,7 +153,7 @@
       "age": 2.5,
       "location": "Sylhet",
       "description": "হাইব্রিড ভেড়া, ভালো স্বাস্থ্য এবং উন্নত মানের মাংস।",
-      "image": "https://i.postimg.cc/W1t0kXzK/sheep3.jpg",
+      "image": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?q=80&w=800&auto=format&fit=crop",
       "category": "Medium Animal"
     }
   ]
